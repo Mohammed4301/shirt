@@ -1,0 +1,21 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+#style{
+    padding: 40px;
+}
+#style h3{
+    text-align: center;
+    font-size: 45px;
+}
+.img img{
+    width: 350px;
+    border: 1px solid;
+    border-radius: 12px;
+    padding: 4px;
+}
+.img{
+    text-align: center;
+    margin-top: 40px;
+}
